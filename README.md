@@ -1,12 +1,6 @@
 # DocSlot
 
-## Sobre Nós
-
 Somos uma equipe de alunos do curso de Sistemas e Mídias Digitais (SMD) da Universidade Federal do Ceará (UFC). Estamos dedicados à produção de um trabalho acadêmico para a disciplina de **Teste de Software Aplicado**, sob orientação da Professora Marília S. Mendes.
-
-## Nossa Missão
-
-Nosso objetivo é aplicar, na prática, os conceitos de teste de software estudados em sala — desde a definição de requisitos e regras de negócio até a elaboração e execução de casos de teste manuais e automáticos — utilizando um sistema real como objeto de estudo.
 
 ## O Projeto
 
