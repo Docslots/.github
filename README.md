@@ -54,4 +54,4 @@ Neste repositório, você encontrará os materiais e o código desenvolvidos par
 
 ## Equipe
 
-[Nome do(s) integrante(s)]
+Guilherme Bessa e Samir Feitosa
